@@ -15,6 +15,7 @@
 - [Monte Carlo](https://www.investopedia.com/terms/m/montecarlosimulation.asp) - Monte Carlo Simulation
 - [Black Scholes](https://www.investopedia.com/terms/b/blackscholes.asp) - Black Scholes Model
 - [CAPM](https://www.investopedia.com/terms/c/capm.asp) - Capital Asset Pricing Model
+- [VaR](https://www.investopedia.com/terms/v/var.asp) - Value at Risk
 
 ## Installation
 require [Python 3+](https://nodejs.org/).
