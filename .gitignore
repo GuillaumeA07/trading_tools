@@ -33,7 +33,7 @@ MANIFEST
 *.spec
 
 .gitignore
-.DS_*
+.DS_Store
 
 # Installer logs
 pip-log.txt
